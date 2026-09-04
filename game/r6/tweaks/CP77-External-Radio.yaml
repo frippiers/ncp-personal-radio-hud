@@ -1,0 +1,5 @@
+RadioStation.Aux:
+  $type: gamedataRadioStation_Record
+  index: -2
+  displayName: "94.7 Piers \"Piercer\" Random Radio"
+  icon: t"UIIcon.CombatHacking_Area_04_Perk_1"
