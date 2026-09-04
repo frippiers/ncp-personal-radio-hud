@@ -65,6 +65,9 @@ The station name is yours to change — no need to touch files:
 - If the wrong app gets controlled, pause/close other players or change `prefer`.
 
 
+## Source code
+Source (helper app) and build instructions: https://github.com/frippiers/ncp-personal-radio-hud
+
 ## A word from the author
 
 > Due to the author's technical limitations, this mod cannot skip tracks directly in-game — after all, it's a radio (lol). Thank you for your understanding. 🎵

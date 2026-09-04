@@ -60,6 +60,9 @@
 - 若控制到错误的应用：暂停/关闭其它播放器，或调整 `prefer`
 
 
+## 源码
+媒体助手源码与构建说明：https://github.com/frippiers/ncp-personal-radio-hud
+
 ## 作者的话
 
 > 由于作者技术限制，本 mod 无法直接在游戏内切歌，毕竟是电台（笑），请大家予以谅解 🎵
